@@ -1,0 +1,379 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\College\3rd\microprocessor\BLEZ\BLEZ
+vadder
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 Ib;:0B5jk?RBm3k?]YS3Q70
+Z3 VR4:XbIkd<X908neF9?e9K1
+S1
+Z4 dE:\College\3rd\microprocessor\mips32
+Z5 w1569747936
+Z6 8E:/College/3rd/microprocessor/mips32/adder.sv
+Z7 FE:/College/3rd/microprocessor/mips32/adder.sv
+L0 1
+Z8 OV;L;10.1b;51
+r1
+31
+Z9 o-work work -sv -O0
+Z10 !s100 1Xh[Y29N^^mhdi;VIQlI13
+Z11 !s105 adder_sv_unit
+Z12 !s108 1570402795.584000
+Z13 !s107 E:/College/3rd/microprocessor/mips32/adder.sv|
+Z14 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/adder.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+valu
+R1
+Z15 Ij?fVV?9db5G>PG@gjWlNQ0
+Z16 Vea^AzKCW2HHSE0Ng;IFdb0
+S1
+R4
+R5
+Z17 8E:/College/3rd/microprocessor/mips32/alu.sv
+Z18 FE:/College/3rd/microprocessor/mips32/alu.sv
+L0 1
+R8
+r1
+31
+R9
+Z19 !s100 [Z6Nf<ShNmScY;M2[z[ko2
+Z20 !s105 alu_sv_unit
+Z21 !s108 1570402795.894000
+Z22 !s107 E:/College/3rd/microprocessor/mips32/alu.sv|
+Z23 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/alu.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+valudec
+R1
+Z24 IZXm81CIN]hHe>iKV7LYEZ3
+Z25 VV@U_8;`LNAe8eO3WRWMD]1
+S1
+R4
+R5
+Z26 8E:/College/3rd/microprocessor/mips32/aludec.sv
+Z27 FE:/College/3rd/microprocessor/mips32/aludec.sv
+L0 1
+R8
+r1
+31
+R9
+Z28 !s100 J3[9T<>958^G=H:La;K453
+Z29 !s105 aludec_sv_unit
+Z30 !s108 1570402796.175000
+Z31 !s107 E:/College/3rd/microprocessor/mips32/aludec.sv|
+Z32 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/aludec.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+R1
+Z33 IISHgK3AboWUAZ;g0OG]P_3
+Z34 V=IXQ75SCR^i3`PCFPDElM3
+S1
+R4
+R5
+Z35 8E:/College/3rd/microprocessor/mips32/controller.sv
+Z36 FE:/College/3rd/microprocessor/mips32/controller.sv
+L0 1
+R8
+r1
+31
+R9
+Z37 !s100 Pbj`jP]>h>mEAk5gD;J:^2
+Z38 !s105 controller_sv_unit
+Z39 !s108 1570402796.414000
+Z40 !s107 E:/College/3rd/microprocessor/mips32/controller.sv|
+Z41 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/controller.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+R1
+Z42 IkYYMEiUlYPXj4o5YmP1mh3
+Z43 VUIZ6C?E6<@GiSzZSX;>AP0
+S1
+R4
+R5
+Z44 8E:/College/3rd/microprocessor/mips32/datapath.sv
+Z45 FE:/College/3rd/microprocessor/mips32/datapath.sv
+L0 1
+R8
+r1
+31
+R9
+Z46 !s100 ^K=FRT7HVH;N6odi;MhYK1
+Z47 !s105 datapath_sv_unit
+Z48 !s108 1570402796.674000
+Z49 !s107 E:/College/3rd/microprocessor/mips32/datapath.sv|
+Z50 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/datapath.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vdmem
+R1
+Z51 ImY]V3LFglQQN3nX[Qc>OV3
+Z52 V09OGzlPeaYS`EJSH7=l6?2
+S1
+R4
+R5
+Z53 8E:/College/3rd/microprocessor/mips32/dmem.sv
+Z54 FE:/College/3rd/microprocessor/mips32/dmem.sv
+L0 1
+R8
+r1
+31
+R9
+Z55 !s100 fRl]UOE]L]Z^nm_P`]<V41
+Z56 !s105 dmem_sv_unit
+Z57 !s108 1570402797.051000
+Z58 !s107 E:/College/3rd/microprocessor/mips32/dmem.sv|
+Z59 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/dmem.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vextnext
+R1
+Z60 IP[5@];oMJ?a:@L?PJmO1X2
+Z61 VKN`0^M`Xm]81oSnDzIWfo1
+S1
+R4
+R5
+Z62 8E:/College/3rd/microprocessor/mips32/extnext.sv
+Z63 FE:/College/3rd/microprocessor/mips32/extnext.sv
+L0 1
+R8
+r1
+31
+R9
+Z64 !s100 nW4hh9UL2WSZma6]JAUB:0
+Z65 !s105 extnext_sv_unit
+Z66 !s108 1570402797.370000
+Z67 !s107 E:/College/3rd/microprocessor/mips32/extnext.sv|
+Z68 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/extnext.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vflopr
+R1
+Z69 I88P<^NcmQ@XQ?X2K0CjcP0
+Z70 VKfe>keNPnLBlHh<KCg1o52
+S1
+R4
+R5
+Z71 8E:/College/3rd/microprocessor/mips32/flopr #.sv
+Z72 FE:/College/3rd/microprocessor/mips32/flopr #.sv
+L0 1
+R8
+r1
+31
+R9
+Z73 !s100 n;]Kl[n>TmJU1a:U280on1
+Z74 !s105 flopr2023_sv_unit
+Z75 !s108 1570402797.601000
+Z76 !s107 E:/College/3rd/microprocessor/mips32/flopr #.sv|
+Z77 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/flopr #.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vimem
+R1
+Z78 I@Q6[=7GNiBd:7c=zije[80
+Z79 V_eezcn[fFK3m2C;IUCfT<1
+S1
+R4
+R5
+Z80 8E:/College/3rd/microprocessor/mips32/imem.sv
+Z81 FE:/College/3rd/microprocessor/mips32/imem.sv
+L0 1
+R8
+r1
+31
+R9
+Z82 !s100 `f^]f?C?7lFKkX@0Bl;OF3
+Z83 !s105 imem_sv_unit
+Z84 !s108 1570402797.908000
+Z85 !s107 E:/College/3rd/microprocessor/mips32/imem.sv|
+Z86 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/imem.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmaindec
+R1
+Z87 I5Ag`;8L6g^f>0HF]?2KIQ2
+Z88 V>9MEXVdMFiOa17>aFROT03
+S1
+R4
+R5
+Z89 8E:/College/3rd/microprocessor/mips32/maindec.sv
+Z90 FE:/College/3rd/microprocessor/mips32/maindec.sv
+L0 1
+R8
+r1
+31
+R9
+Z91 !s100 7b<]<`U2IR:d0N5mAM;cY2
+Z92 !s105 maindec_sv_unit
+Z93 !s108 1570402798.229000
+Z94 !s107 E:/College/3rd/microprocessor/mips32/maindec.sv|
+Z95 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/maindec.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmips
+R1
+Z96 IAZ?LHYYZi@7jP_aNiKZU?1
+Z97 Va2;eVEc7`hU<K]<IICd^52
+S1
+R4
+R5
+Z98 8E:/College/3rd/microprocessor/mips32/mips.sv
+Z99 FE:/College/3rd/microprocessor/mips32/mips.sv
+L0 1
+R8
+r1
+31
+R9
+Z100 !s100 bN]d070W6Fg0CMe`o0ib83
+Z101 !s105 mips_sv_unit
+Z102 !s108 1570402798.480000
+Z103 !s107 E:/College/3rd/microprocessor/mips32/mips.sv|
+Z104 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/mips.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2
+R1
+Z105 INJ9X_KGWjTznn>787hWUT1
+Z106 VT8RWJBjAIeM]>7U=5kBkT1
+S1
+R4
+R5
+Z107 8E:/College/3rd/microprocessor/mips32/mux2 #.sv
+Z108 FE:/College/3rd/microprocessor/mips32/mux2 #.sv
+L0 1
+R8
+r1
+31
+R9
+Z109 !s100 H:ESRb=cl>hje2UG:7?I93
+Z110 !s105 mux22023_sv_unit
+Z111 !s108 1570402798.685000
+Z112 !s107 E:/College/3rd/microprocessor/mips32/mux2 #.sv|
+Z113 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/mux2 #.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vregfile
+R1
+Z114 Ib2P8ejBU@]dE2YdhE032`1
+Z115 Vl>JD@?ekG29h[?;gM3Z2H1
+S1
+R4
+R5
+Z116 8E:/College/3rd/microprocessor/mips32/regfile.sv
+Z117 FE:/College/3rd/microprocessor/mips32/regfile.sv
+L0 1
+R8
+r1
+31
+R9
+Z118 !s100 `?d7<D`Rj9dcIEg:MKmKY0
+Z119 !s105 regfile_sv_unit
+Z120 !s108 1570402798.938000
+Z121 !s107 E:/College/3rd/microprocessor/mips32/regfile.sv|
+Z122 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/regfile.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vsignext
+R1
+Z123 IQQE<;0MnMVaQk9o=EU4eS0
+Z124 VzXjEl4X;;[WhS@=1HjFT41
+S1
+R4
+R5
+Z125 8E:/College/3rd/microprocessor/mips32/signext.sv
+Z126 FE:/College/3rd/microprocessor/mips32/signext.sv
+L0 1
+R8
+r1
+31
+R9
+Z127 !s100 bhHg`D3Cof9j6dgo9kkhD0
+Z128 !s105 signext_sv_unit
+Z129 !s108 1570402799.172000
+Z130 !s107 E:/College/3rd/microprocessor/mips32/signext.sv|
+Z131 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/signext.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vsl2
+R1
+Z132 I_Yc937?@mES[HmGYfoIfP3
+Z133 VMHGRbO<8oJM:TjGW_j2PX2
+S1
+R4
+R5
+Z134 8E:/College/3rd/microprocessor/mips32/sl2.sv
+Z135 FE:/College/3rd/microprocessor/mips32/sl2.sv
+L0 1
+R8
+r1
+31
+R9
+Z136 !s100 RMz0QbhFWEcS`[L<V@En93
+Z137 !s105 sl2_sv_unit
+Z138 !s108 1570402799.424000
+Z139 !s107 E:/College/3rd/microprocessor/mips32/sl2.sv|
+Z140 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/sl2.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+R1
+Z141 IWebVzfCWfC_S_Idjg_=NY1
+Z142 VhGfW:390DM[oDMzegDH9`2
+S1
+R4
+R5
+Z143 8E:/College/3rd/microprocessor/mips32/testbench.sv
+Z144 FE:/College/3rd/microprocessor/mips32/testbench.sv
+L0 1
+R8
+r1
+31
+R9
+!i10b 1
+Z145 !s100 Qa9__7[mYkg0eKiDK8HCX0
+Z146 !s105 testbench_sv_unit
+!s85 0
+Z147 !s108 1570402799.856000
+Z148 !s107 E:/College/3rd/microprocessor/mips32/testbench.sv|
+Z149 !s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/testbench.sv|
+!s101 -O0
+vtop
+R1
+!i10b 1
+!s100 5W85QWZ0<QgC32ZoDA@O62
+ICB]Lji;gMXVA9>VSX0@ZA2
+V=TIn67B?1ag:LQ8NchNYN0
+!s105 top_sv_unit
+S1
+R4
+R5
+8E:/College/3rd/microprocessor/mips32/top.sv
+FE:/College/3rd/microprocessor/mips32/top.sv
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1570402800.194000
+!s107 E:/College/3rd/microprocessor/mips32/top.sv|
+!s90 -reportprogress|300|-work|work|-sv|E:/College/3rd/microprocessor/mips32/top.sv|
+!s101 -O0
+R9
