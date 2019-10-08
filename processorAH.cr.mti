@@ -1,0 +1,129 @@
+D:/altera/regfile.sv {1 {vlog -work work -sv D:/altera/regfile.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {D:/altera/flopr #.sv} {1 {vlog -work work -sv {D:/altera/flopr #.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module flopr
+
+Top level modules:
+	flopr
+
+} {} {}} D:/altera/datapath.sv {1 {vlog -work work -sv D:/altera/datapath.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {D:/altera/mux2 #.sv} {1 {vlog -work work -sv {D:/altera/mux2 #.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} D:/altera/testbench.sv {1 {vlog -work work -sv D:/altera/testbench.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} D:/altera/adder.sv {1 {vlog -work work -sv D:/altera/adder.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} D:/altera/maindec.sv {2 {vlog -work work -sv D:/altera/maindec.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module maindec
+** Warning: D:/altera/maindec.sv(36): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	maindec
+
+} {} {}} D:/altera/sl2.sv {1 {vlog -work work -sv D:/altera/sl2.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module sl2
+
+Top level modules:
+	sl2
+
+} {} {}} D:/altera/signext.sv {1 {vlog -work work -sv D:/altera/signext.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} D:/altera/dmem.sv {1 {vlog -work work -sv D:/altera/dmem.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} D:/altera/controller.sv {1 {vlog -work work -sv D:/altera/CONTROLLER.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} D:/altera/aludec.sv {1 {vlog -work work -sv D:/altera/aludec.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module aludec
+
+Top level modules:
+	aludec
+
+} {} {}} D:/altera/extnext.sv {1 {vlog -work work -sv D:/altera/extnext.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module extnext
+
+Top level modules:
+	extnext
+
+} {} {}} D:/altera/imem.sv {1 {vlog -work work -sv D:/altera/imem.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} D:/altera/mips.sv {1 {vlog -work work -sv D:/altera/mips.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} D:/altera/shiftLeft.sv {1 {vlog -work work -sv D:/altera/shiftleft.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module slx
+
+Top level modules:
+	slx
+
+} {} {}} D:/altera/alu.sv {1 {vlog -work work -sv D:/altera/alu.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/altera/top.sv {1 {vlog -work work -sv D:/altera/top.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}}

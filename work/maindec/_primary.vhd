@@ -3,6 +3,7 @@ use verilog.vl_types.all;
 entity maindec is
     port(
         op              : in     vl_logic_vector(5 downto 0);
+        funct           : in     vl_logic_vector(5 downto 0);
         memtoreg        : out    vl_logic;
         memwrite        : out    vl_logic;
         branch          : out    vl_logic;
@@ -10,7 +11,8 @@ entity maindec is
         regdst          : out    vl_logic;
         regwrite        : out    vl_logic;
         jump            : out    vl_logic;
+        jr              : out    vl_logic;
         ne              : out    vl_logic;
-        aluop           : out    vl_logic_vector(1 downto 0)
+        aluop           : out    vl_logic_vector(2 downto 0)
     );
 end maindec;

@@ -3,8 +3,8 @@ module datapath(input logic clk, reset,
                 input logic [1:0] alusrc,
                 input logic ne,
                 input logic regdst,
-                input logic regwrite, jump,
-                input logic [2:0] alucontrol,
+                input logic regwrite, jump,jr,
+                input logic [3:0] alucontrol,
                 output logic zero,
                 output logic [31:0] pc,
                 input logic [31:0] instr,
@@ -13,7 +13,7 @@ module datapath(input logic clk, reset,
 
 
     logic [4:0] writereg;
-    logic [31:0] pcnext, pcnextbr, pcplus4, pcbranch;
+    logic [31:0] pcnext, pcnextbr, pcplus4, pcbranch,pcnextj;
     logic [31:0] signimm, signimmsh;
     logic [31:0] srca, srcb;
     logic [31:0] result;
@@ -29,7 +29,10 @@ module datapath(input logic clk, reset,
 
     mux2 #(32) pcbrmux(pcplus4, pcbranch, pcsrc, pcnextbr);
     mux2 #(32) pcmux(pcnextbr, {pcplus4[31:28],
-                    instr[25:0], 2'b00}, jump, pcnext);
+                    instr[25:0], 2'b00}, jump, pcnextj);
+    
+    //jr mux
+    mux2 #(32) pcjrmux(pcnextj, srca, jr, pcnext);
 
     // register file logic
     regfile rf(clk, regwrite, instr[25:21], instr[20:16],
@@ -47,5 +50,5 @@ module datapath(input logic clk, reset,
     // ALU logic
     mux2 #(32) srcbmux(writedata, extimm, alusrc[0], srcb);
     mux2 #(32) extimux(signimm ,  zeroimm, alusrc[1], extimm);
-    alu alu(srca, srcb, alucontrol, aluout, zero);
+    alu alu(srca, srcb, alucontrol,instr[10:6], aluout, zero);
 endmodule
