@@ -1,0 +1,511 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\12.1\modelsim_ase
+vadder
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 Z0iQ]HOMl:2UP8;EzoF6>3
+Z3 IU3`SeBMeZ@B9]OglARR1b1
+Z4 VR4:XbIkd<X908neF9?e9K1
+Z5 !s105 adder_sv_unit
+S1
+Z6 dD:\Studying\mips32-master\mips32-master
+Z7 w1570606146
+Z8 8D:/Studying/mips32-master/mips32-master/adder.sv
+Z9 FD:/Studying/mips32-master/mips32-master/adder.sv
+L0 1
+Z10 OV;L;10.1b;51
+r1
+31
+Z11 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/adder.sv|
+Z12 o-work work -sv -O0
+Z13 !s108 1570900696.587000
+Z14 !s107 D:/Studying/mips32-master/mips32-master/adder.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+valu
+R1
+Z15 Ikg=Y[jXNo@K:=D9zFFJD^0
+Z16 VW]NF]WQIjR:7B:nLji5Me3
+Z17 !s105 alu_sv_unit
+S1
+R6
+Z18 w1570900694
+Z19 8D:/Studying/mips32-master/mips32-master/alu.sv
+Z20 FD:/Studying/mips32-master/mips32-master/alu.sv
+L0 1
+R10
+r1
+31
+Z21 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/alu.sv|
+R12
+Z22 !s100 G;a3OD1^z39h[O1;<1[1X3
+Z23 !s108 1570900696.873000
+Z24 !s107 D:/Studying/mips32-master/mips32-master/alu.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+valudec
+R1
+Z25 I3m>bZb2NPMGTJ1YAzk;L11
+Z26 Vg`9OoRV_Yn=Jc;GZj>2L_1
+Z27 !s105 aludec_sv_unit
+S1
+R6
+Z28 w1570900690
+Z29 8D:/Studying/mips32-master/mips32-master/aludec.sv
+Z30 FD:/Studying/mips32-master/mips32-master/aludec.sv
+L0 1
+R10
+r1
+31
+Z31 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/aludec.sv|
+R12
+Z32 !s100 cggFIbcg<SQMS:N<QTVI;2
+Z33 !s108 1570900696.987000
+Z34 !s107 D:/Studying/mips32-master/mips32-master/aludec.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+R1
+Z35 !s100 c^Zck_j1[QNlE3?Ozhjee3
+Z36 IFTJ5HOXbAMADbR0^4h1A]2
+Z37 V^DgP@Wm7[;`NzlzcZVKco3
+Z38 !s105 controller_sv_unit
+S1
+R6
+R7
+Z39 8D:/Studying/mips32-master/mips32-master/controller.sv
+Z40 FD:/Studying/mips32-master/mips32-master/controller.sv
+L0 1
+R10
+r1
+31
+Z41 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/controller.sv|
+R12
+Z42 !s108 1570900697.093000
+Z43 !s107 D:/Studying/mips32-master/mips32-master/controller.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+R1
+Z44 !s100 FbWBQY88>D7C_hJS;=6?X0
+Z45 Ij5:@]jAk:<k1<5z66Of6d1
+Z46 V`N0VNo5fK:0f2[BN:BCH12
+Z47 !s105 datapath_sv_unit
+S1
+R6
+R7
+Z48 8D:/Studying/mips32-master/mips32-master/datapath.sv
+Z49 FD:/Studying/mips32-master/mips32-master/datapath.sv
+L0 1
+R10
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/datapath.sv|
+R12
+Z51 !s108 1570900697.242000
+Z52 !s107 D:/Studying/mips32-master/mips32-master/datapath.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vdmem
+R1
+Z53 !s100 4[iJeQmM9_8>aV9I;3Yc33
+Z54 I_[TS?^n_CJiP:n;<Wc?mS2
+Z55 V09OGzlPeaYS`EJSH7=l6?2
+Z56 !s105 dmem_sv_unit
+S1
+R6
+R7
+Z57 8D:/Studying/mips32-master/mips32-master/dmem.sv
+Z58 FD:/Studying/mips32-master/mips32-master/dmem.sv
+L0 1
+R10
+r1
+31
+Z59 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/dmem.sv|
+R12
+Z60 !s108 1570900697.403000
+Z61 !s107 D:/Studying/mips32-master/mips32-master/dmem.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vextnext
+R1
+Z62 !s100 QoAGlU>X`cOgRYSZ7J^2[1
+Z63 IV;m0fR`F`]lDBA;W`PLOQ2
+Z64 VKN`0^M`Xm]81oSnDzIWfo1
+Z65 !s105 extnext_sv_unit
+S1
+R6
+R7
+Z66 8D:/Studying/mips32-master/mips32-master/extnext.sv
+Z67 FD:/Studying/mips32-master/mips32-master/extnext.sv
+L0 1
+R10
+r1
+31
+Z68 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/extnext.sv|
+R12
+Z69 !s108 1570900697.574000
+Z70 !s107 D:/Studying/mips32-master/mips32-master/extnext.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vextnext_temp
+R1
+Z71 !s100 hD4n]i8j:2UA^8B2iAeL23
+Z72 IFzfOijgHNZ@NMAnYkz@?70
+Z73 V;7;=TNc9`:OJhZCS1Yh033
+Z74 !s105 extnext_temp_sv_unit
+S1
+R6
+R7
+Z75 8D:/Studying/mips32-master/mips32-master/extnext_temp.sv
+Z76 FD:/Studying/mips32-master/mips32-master/extnext_temp.sv
+L0 1
+R10
+r1
+31
+Z77 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/extnext_temp.sv|
+R12
+Z78 !s108 1570900697.744000
+Z79 !s107 D:/Studying/mips32-master/mips32-master/extnext_temp.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vflopr
+R1
+Z80 !s100 6L@Vgl2>N9[VdeHV[5SRV0
+Z81 I<:S4X`mlXn7GGnL:?LSTz1
+Z82 VKfe>keNPnLBlHh<KCg1o52
+Z83 !s105 flopr2023_sv_unit
+S1
+R6
+R7
+Z84 8D:/Studying/mips32-master/mips32-master/flopr #.sv
+Z85 FD:/Studying/mips32-master/mips32-master/flopr #.sv
+L0 1
+R10
+r1
+31
+Z86 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/flopr #.sv|
+R12
+Z87 !s108 1570900697.875000
+Z88 !s107 D:/Studying/mips32-master/mips32-master/flopr #.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vimem
+R1
+Z89 !s100 D^DGARTJccY?HWKhh;MI73
+Z90 I3B8N9z2HhPIKn6Am[>@?U0
+Z91 V_eezcn[fFK3m2C;IUCfT<1
+Z92 !s105 imem_sv_unit
+S1
+R6
+R7
+Z93 8D:/Studying/mips32-master/mips32-master/imem.sv
+Z94 FD:/Studying/mips32-master/mips32-master/imem.sv
+L0 1
+R10
+r1
+31
+Z95 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/imem.sv|
+R12
+Z96 !s108 1570900698.024000
+Z97 !s107 D:/Studying/mips32-master/mips32-master/imem.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmaindec
+R1
+Z98 IZ^:nR_4oOG>>Se6TSVz?W1
+Z99 VJ]7S^iR2;=;HI`G=KUQUQ0
+Z100 !s105 maindec_sv_unit
+S1
+R6
+Z101 w1570900685
+Z102 8D:/Studying/mips32-master/mips32-master/maindec.sv
+Z103 FD:/Studying/mips32-master/mips32-master/maindec.sv
+L0 1
+R10
+r1
+31
+Z104 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/maindec.sv|
+R12
+Z105 !s100 Agg2b?dd<1S@iV[XPFdWJ2
+Z106 !s108 1570900698.189000
+Z107 !s107 D:/Studying/mips32-master/mips32-master/maindec.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmips
+R1
+Z108 !s100 C1DQQ4Y>VVenkH@?e[AHH2
+Z109 ICnF5Kb=0zP5Ca=:1lTK1[2
+Z110 Va2;eVEc7`hU<K]<IICd^52
+Z111 !s105 mips_sv_unit
+S1
+R6
+R7
+Z112 8D:/Studying/mips32-master/mips32-master/mips.sv
+Z113 FD:/Studying/mips32-master/mips32-master/mips.sv
+L0 1
+R10
+r1
+31
+Z114 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/mips.sv|
+R12
+Z115 !s108 1570900698.306000
+Z116 !s107 D:/Studying/mips32-master/mips32-master/mips.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2
+R1
+Z117 !s100 ckSTh716`>:a1dDca[^Mz1
+Z118 I;4`m`ikJh@Yf41W_5a5<42
+Z119 VT8RWJBjAIeM]>7U=5kBkT1
+Z120 !s105 mux22023_sv_unit
+S1
+R6
+R7
+Z121 8D:/Studying/mips32-master/mips32-master/mux2 #.sv
+Z122 FD:/Studying/mips32-master/mips32-master/mux2 #.sv
+L0 1
+R10
+r1
+31
+Z123 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/mux2 #.sv|
+R12
+Z124 !s108 1570900698.494000
+Z125 !s107 D:/Studying/mips32-master/mips32-master/mux2 #.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4
+R1
+Z126 !s100 @AQQZODW[4DEm99ZdTR1[0
+Z127 Ic87SZ4oCD1`J6;A2[?A=50
+Z128 VOlcBmM_04`P224OO8SWB<0
+Z129 !s105 mux42023_sv_unit
+S1
+R6
+R7
+Z130 8D:/Studying/mips32-master/mips32-master/mux4 #.sv
+Z131 FD:/Studying/mips32-master/mips32-master/mux4 #.sv
+L0 1
+R10
+r1
+31
+Z132 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/mux4 #.sv|
+R12
+Z133 !s108 1570900698.661000
+Z134 !s107 D:/Studying/mips32-master/mips32-master/mux4 #.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vregfile
+R1
+Z135 !s100 9J7nA:>6QOOb<D4a>WgZ33
+Z136 I2U6V^E?c[0e5;lWfAF3`M1
+Z137 Vl>JD@?ekG29h[?;gM3Z2H1
+Z138 !s105 regfile_sv_unit
+S1
+R6
+R7
+Z139 8D:/Studying/mips32-master/mips32-master/regfile.sv
+Z140 FD:/Studying/mips32-master/mips32-master/regfile.sv
+L0 1
+R10
+r1
+31
+Z141 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/regfile.sv|
+R12
+Z142 !s108 1570900698.786000
+Z143 !s107 D:/Studying/mips32-master/mips32-master/regfile.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vsignex
+R1
+Z144 !s100 4Q^U`Dof`SGHP6PzDT[A>1
+Z145 IDdnenPF7M6^ZEE@J1NUI31
+Z146 V[ka^c_4ck_azZ:_6AGij<2
+Z147 !s105 signex_sv_unit
+S1
+R6
+R7
+Z148 8D:/Studying/mips32-master/mips32-master/signex.sv
+Z149 FD:/Studying/mips32-master/mips32-master/signex.sv
+L0 2
+R10
+r1
+31
+Z150 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/signex.sv|
+R12
+Z151 !s108 1570900698.953000
+Z152 !s107 D:/Studying/mips32-master/mips32-master/signex.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vsignext
+R1
+Z153 !s100 9`iHgLW70gl>9?H4@L_:l1
+Z154 IhfXHKeC`b<=9NJ]^MaJAZ3
+Z155 VzXjEl4X;;[WhS@=1HjFT41
+Z156 !s105 signext_sv_unit
+S1
+R6
+R7
+Z157 8D:/Studying/mips32-master/mips32-master/signext.sv
+Z158 FD:/Studying/mips32-master/mips32-master/signext.sv
+L0 1
+R10
+r1
+31
+Z159 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/signext.sv|
+R12
+Z160 !s108 1570900699.138000
+Z161 !s107 D:/Studying/mips32-master/mips32-master/signext.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vsl2
+R1
+Z162 !s100 hF39J=mT1APBeVK7SIi5X1
+Z163 IEJPo7_g]10NN=E:;QZXDc3
+Z164 VMHGRbO<8oJM:TjGW_j2PX2
+Z165 !s105 sl2_sv_unit
+S1
+R6
+R7
+Z166 8D:/Studying/mips32-master/mips32-master/sl2.sv
+Z167 FD:/Studying/mips32-master/mips32-master/sl2.sv
+L0 1
+R10
+r1
+31
+Z168 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/sl2.sv|
+R12
+Z169 !s108 1570900699.305000
+Z170 !s107 D:/Studying/mips32-master/mips32-master/sl2.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench
+R1
+Z171 !s100 4z8hF<eePenNog[370<IW0
+Z172 I13zeBC?8g^kKXG_T_5kbO0
+Z173 VhGfW:390DM[oDMzegDH9`2
+Z174 !s105 testbench_sv_unit
+S1
+R6
+R7
+Z175 8D:/Studying/mips32-master/mips32-master/testbench.sv
+Z176 FD:/Studying/mips32-master/mips32-master/testbench.sv
+L0 1
+R10
+r1
+31
+Z177 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/testbench.sv|
+R12
+Z178 !s108 1570900699.519000
+Z179 !s107 D:/Studying/mips32-master/mips32-master/testbench.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench__andi
+R1
+Z180 !s100 >IZG1KMl]zzP>XY5@XZ=f1
+Z181 Imk]<=]<0AX_9b7WH`OJlU3
+Z182 VJMFI]?PU_PI3A44];i8Hc2
+Z183 !s105 testbench__andi_sv_unit
+S1
+R6
+R7
+Z184 8D:/Studying/mips32-master/mips32-master/testbench__andi.sv
+Z185 FD:/Studying/mips32-master/mips32-master/testbench__andi.sv
+L0 1
+R10
+r1
+31
+Z186 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/testbench__andi.sv|
+R12
+Z187 !s108 1570900699.708000
+Z188 !s107 D:/Studying/mips32-master/mips32-master/testbench__andi.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestbench__lhlb
+R1
+Z189 !s100 _SD]Z9[7]dz5O_WB_`ljQ0
+Z190 IR9lY9Dngo;2AlYfOi0WnQ0
+Z191 VVGGfD=6=I9@_InA[eIHPR3
+Z192 !s105 testbench__lhlb_sv_unit
+S1
+R6
+R7
+Z193 8D:/Studying/mips32-master/mips32-master/testbench__lhlb.sv
+Z194 FD:/Studying/mips32-master/mips32-master/testbench__lhlb.sv
+L0 1
+R10
+r1
+31
+Z195 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/testbench__lhlb.sv|
+R12
+!i10b 1
+!s85 0
+Z196 !s108 1570900700.081000
+Z197 !s107 D:/Studying/mips32-master/mips32-master/testbench__lhlb.sv|
+!s101 -O0
+vtestbench_lbu
+R1
+Z198 !s100 4bINi>NcIVEWd?aZJE:eA1
+Z199 IOKjIemjWQT_]_GHi?kc0]2
+Z200 VCTk]XNNdF=fLXSdHhWc:M0
+Z201 !s105 testbench__jr_sv_unit
+S1
+R6
+R7
+Z202 8D:/Studying/mips32-master/mips32-master/testbench__jr.sv
+Z203 FD:/Studying/mips32-master/mips32-master/testbench__jr.sv
+L0 1
+R10
+r1
+31
+Z204 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/testbench__jr.sv|
+R12
+Z205 !s108 1570900699.898000
+Z206 !s107 D:/Studying/mips32-master/mips32-master/testbench__jr.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vtop
+R1
+!i10b 1
+Z207 !s100 6@T^fCDQb6feVVKGfN<Kz0
+Z208 Ih@CJZ6QDHIfh2ML5c^4163
+Z209 V=TIn67B?1ag:LQ8NchNYN0
+Z210 !s105 top_sv_unit
+S1
+R6
+R7
+Z211 8D:/Studying/mips32-master/mips32-master/top.sv
+Z212 FD:/Studying/mips32-master/mips32-master/top.sv
+L0 1
+R10
+r1
+!s85 0
+31
+!s108 1570900700.237000
+!s107 D:/Studying/mips32-master/mips32-master/top.sv|
+Z213 !s90 -reportprogress|300|-work|work|-sv|D:/Studying/mips32-master/mips32-master/top.sv|
+!s101 -O0
+R12

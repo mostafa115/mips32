@@ -1,0 +1,162 @@
+D:/Studying/mips32-master/mips32-master/testbench__jr.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/testbench__jr.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module testbench_lbu
+
+Top level modules:
+	testbench_lbu
+
+} {} {}} D:/Studying/mips32-master/mips32-master/signext.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/signext.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} D:/Studying/mips32-master/mips32-master/dmem.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/dmem.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} D:/Studying/mips32-master/mips32-master/controller.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/controller.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} D:/Studying/mips32-master/mips32-master/extnext_temp.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/extnext_temp.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module extnext_temp
+
+Top level modules:
+	extnext_temp
+
+} {} {}} D:/Studying/mips32-master/mips32-master/aludec.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/aludec.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module aludec
+
+Top level modules:
+	aludec
+
+} {} {}} D:/Studying/mips32-master/mips32-master/signex.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/signex.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module signex
+
+Top level modules:
+	signex
+
+} {} {}} D:/Studying/mips32-master/mips32-master/testbench__lhlb.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/testbench__lhlb.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module testbench__lhlb
+
+Top level modules:
+	testbench__lhlb
+
+} {} {}} D:/Studying/mips32-master/mips32-master/extnext.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/extnext.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module extnext
+
+Top level modules:
+	extnext
+
+} {} {}} D:/Studying/mips32-master/mips32-master/imem.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/imem.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} D:/Studying/mips32-master/mips32-master/mips.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/mips.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} D:/Studying/mips32-master/mips32-master/testbench__andi.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/testbench__andi.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module testbench__andi
+
+Top level modules:
+	testbench__andi
+
+} {} {}} D:/Studying/mips32-master/mips32-master/alu.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/alu.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/Studying/mips32-master/mips32-master/top.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/top.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} D:/Studying/mips32-master/mips32-master/regfile.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/regfile.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {D:/Studying/mips32-master/mips32-master/flopr #.sv} {1 {vlog -work work -sv {D:/Studying/mips32-master/mips32-master/flopr #.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module flopr
+
+Top level modules:
+	flopr
+
+} {} {}} {D:/Studying/mips32-master/mips32-master/mux2 #.sv} {1 {vlog -work work -sv {D:/Studying/mips32-master/mips32-master/mux2 #.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} D:/Studying/mips32-master/mips32-master/datapath.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/datapath.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} D:/Studying/mips32-master/mips32-master/testbench.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/testbench.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} D:/Studying/mips32-master/mips32-master/adder.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/adder.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} D:/Studying/mips32-master/mips32-master/maindec.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/maindec.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module maindec
+
+Top level modules:
+	maindec
+
+} {} {}} D:/Studying/mips32-master/mips32-master/sl2.sv {1 {vlog -work work -sv D:/Studying/mips32-master/mips32-master/sl2.sv
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module sl2
+
+Top level modules:
+	sl2
+
+} {} {}} {D:/Studying/mips32-master/mips32-master/mux4 #.sv} {1 {vlog -work work -sv {D:/Studying/mips32-master/mips32-master/mux4 #.sv}
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}}
